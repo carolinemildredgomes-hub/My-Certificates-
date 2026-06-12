@@ -19,6 +19,7 @@ I have successfully completed the following CS50 courses:
 
 🎓 CS50’s Introduction to Computer Science
 🐍 CS50’s Introduction to Programming with Python
+CS50's Introduction to Databases with SQL
 
 Each certificate represents my progress in understanding core programming and computer science concepts.
 
@@ -27,6 +28,7 @@ Each certificate represents my progress in understanding core programming and co
  ┣ 📜 cs50_intro_cs_certificate.pdf
  ┣ 📜 cs50_python_certificate.pdf
  ┗ 📜 README.md
+ CS50 Introduction to Databases with SQL.pdf
 🚀 My Learning Journey
 
 Through CS50, I have developed a strong foundation in:
@@ -47,6 +49,8 @@ Python programming fundamentals
 Understanding algorithms and logic
 Debugging and problem-solving skills
 Strong computational thinking mindset
+Database management using sql queries 
+
 📌 Future Goals
 
 I plan to continue expanding my knowledge in:
